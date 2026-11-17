@@ -106,3 +106,9 @@ Most class sessions include a graded collaborative activity, such as data manife
 Ruoxi (Anna) Shang and Murtaza Ali have contributed to the development of this course.
 
 The course also builds on materials shared by Marti Hearst and Maneesh Agrawala (UC Berkeley, Stanford), Jeffrey Heer and Leilani Battle (UW CSE), Cecilia Aragon (UW HCDE), Mar Drouhard, Andrea Figueroa, Polle Zellweger, and Nancy Organ. The regrade policy comes from Nikhil Srivastava (UC Berkeley) and the grading-scale policy from Jacob Wobbrock (UW). All material is used with permission.
+
+---
+
+## License
+
+This repository is released under the [MIT License](LICENSE).
